@@ -28,6 +28,6 @@ end
     while count < array.length do
       new_array.push(array[count].to_s)
     end
-    new_array
+    array
   end
   
