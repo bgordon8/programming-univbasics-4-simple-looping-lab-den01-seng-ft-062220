@@ -29,6 +29,6 @@ end
       new_array.push(array[count].to_s)
       count += 1
     end
-    array
+    new_array
   end
   
